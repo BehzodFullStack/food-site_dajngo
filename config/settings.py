@@ -25,7 +25,7 @@ SECRET_KEY = '1_5j9)3=2a)#6g5kkq@2s@+s(q)fzb_5(_$v@wpn$@m-pnbdo^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['food-site.onrender.com']
+ALLOWED_HOSTS = ['.onrender.com']
 
 
 # Application definition
